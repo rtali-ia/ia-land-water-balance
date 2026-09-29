@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+numba
+requests
+rrmpg @ git+https://github.com/kratzert/RRMPG.git
+geopandas
+shapely>=2
+pyarrow
+xarray
+netCDF4
+rasterio
+scikit-learn
